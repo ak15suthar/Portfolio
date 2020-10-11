@@ -73,7 +73,7 @@ h3,
 }
 
 .nav-link.active {
-  background-color: rgb(71, 90, 197) !important;
+  background-color: #107eed !important;
   border-radius: 50px !important;
   color: white !important;
   border: none !important;
